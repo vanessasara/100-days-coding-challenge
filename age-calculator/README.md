@@ -13,15 +13,7 @@ in offices,malls etc.
   * JavaScript
 
 
-#### Steps to Use:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
+#### Steps to Use:`
 
 - Go to the directory
 - Run the index.html file
