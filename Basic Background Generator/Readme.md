@@ -14,10 +14,7 @@
 <br>
 
 <ul>
-  <li>Download or clone the repository</li>
-<pre><code>
-  
-</code></pre>
+
   
   <li>Go to the directory</li>
   <li>Run the index.html file in your browser</li>
