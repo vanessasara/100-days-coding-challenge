@@ -10,11 +10,7 @@
 ✔ ExpressJs <br>
 </p>
 <h1 align="center"> 🌎 Use</h1>
-- Download or clone the repository
 
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
 
 - Go to the directory
 ```
